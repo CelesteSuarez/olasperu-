@@ -3,16 +3,16 @@
 	margin: 0px;
 	padding: 0px;
 }
-.container, body{
-	width: 100%;
-	height: 100%;
-}
+// .container, body{
+// 	width: 100%;
+// 	height: 100%;
+// }
 
 .fondo {
 	background-size: cover;
 	height: 100%;
 	width:100%;
-	background-image: url(img/banner.jpg);
+	background-image: url(../img/banner.jpg);
 }
 
 /* NAVBAR SECTION */
@@ -64,7 +64,6 @@ a {
 	top: 70%;
 	right: 6%;
 	z-index: 1;
-	padd
 }
 
 .slogn h1{
@@ -101,9 +100,9 @@ a {
 .pack{
 	border: 1px solid #0B173B;
 	background-color: white;
-	width: 27%;
+	/*width: 27%;*/
 	height: 79%;
-	float: left;
+	/*float: left;*/
 	margin: 36px;
 }
 
@@ -175,7 +174,7 @@ a {
 	height: 730px;
 	background-color: gray;
 	padding: 50px 100px;
-	background-image: url(img/tile2.png);
+	background-image: url(../img/tile2.png);
 }
 
 .quees h1{
@@ -224,10 +223,10 @@ h3{
 	text-align: center;
 }
 
-img.teacher {
+/*img.teacher {
   height: 50%;
   width: 80%;
- }
+ }*/
  
 .profe h3{
 	color: #0B173B;
@@ -283,7 +282,7 @@ img.teacher {
 .contacto{
  	height: 370px;
  	width: 100%;
- 	background-image: url(img/tile2.png);
+ 	background-image: url(../img/tile2.png);
  	margin: 0 auto;
  	padding: 30px;
  	text-align: center;

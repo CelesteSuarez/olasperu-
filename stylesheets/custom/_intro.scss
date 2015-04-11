@@ -1,0 +1,22 @@
+.navbar {
+	min-height: 77px;
+	background-color: black;
+	margin-bottom: 0;
+	.navbar-header {
+		padding-bottom: 14px;
+		button {
+			margin-top: 14px;
+		}
+	}
+	.navbar-collapse {
+		border: none;
+	}
+	.navbar-right {
+		padding-top: 14px;
+	}
+	.navbar-brand {
+		img {
+			width: 120px;
+		}
+	}
+}
